@@ -1,0 +1,151 @@
+/* body{
+    font-family: "Montserrat";
+} */
+#title{
+background-color:#ff4c68;
+color: #fff;
+}
+#features{
+    margin-top: 10rem;
+    margin-bottom: 8rem;
+    margin-right: 7rem;
+    margin-left: 7rem;
+}
+
+h1{
+font-family: "Montserrat-Black";
+font-size: 4rem;
+line-height: 1.5;
+}
+
+.container-fluid{
+margin: 3% 15%;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.mar{
+    margin-left: 0%;
+}
+.marr{
+    margin-bottom: 5rem;
+}
+.down-button{
+    margin: 5% 3% 5% 0;
+    
+}
+.title-img{
+    width: 50%;
+    transform: rotate(25deg);
+    margin-right: 50%;
+}
+.font{
+    width: 60%;
+
+}
+.font-some{
+    color: #ef8172;
+   width: auto;
+   height: auto;
+   margin-bottom: 3rem;
+}
+.font-some:hover{
+    color: #ff4c68;
+
+}
+/* .cent{
+    width: 50%;
+    margin-left: 20%;
+} */
+.low{
+    color: rgb(184, 125, 125);
+    
+}
+.features-box{
+    text-align: center;
+    justify-content: center;
+    padding: 5%;
+}
+#testimonials{
+    text-align: center;
+    justify-content: center;
+    background-color: #ef8172;
+    font-family: 'Montserrat', sans-serif;
+
+}
+.testimonial-image{
+    margin-top: 3rem;
+    margin-right: 2rem;
+    border-radius: 100%;
+    width: 10%;
+}
+.emdiv{
+    margin-top: 10rem;
+    margin-left: 2rem;
+align-items: center;
+}
+#press{
+    background-color: #ef8172;
+    padding-bottom: 6rem;
+    text-align: center;
+}
+.h2class{
+    font-family: "Montserrat-Black";
+font-weight: bolder;
+padding-bottom: 4rem;
+}
+.pressimg{
+    padding: 2rem;
+}
+.carousel-item{
+    padding:7% 15% ;
+    margin-top: 3rem;
+
+}
+#pricing{
+    margin-top: 4rem;
+    text-align: center;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    
+}
+.columcard{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+@media(max-width:992px) {
+
+.title-img{
+
+    width: 50%;
+    transform: rotate(0);
+    margin-bottom: 5rem;
+    margin-top: 2rem;
+    align-items: center;
+}
+
+}
+#cta{
+    font-family: "Montserrat-Black";
+    font-weight: bolder;
+    background-color: #ff4c68;
+    text-align: center;
+    margin-bottom: 3rem;
+}
+.downl-button{
+    margin-top: 3rem;
+    margin-bottom: 9rem;
+}
+.cta-h{
+    padding-top: 7rem;
+}
+#footer{
+    text-align: center;
+    margin-top: 0;
+}
+.myicon{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
